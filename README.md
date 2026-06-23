@@ -1,6 +1,6 @@
 # 🏥 AI Health Companion
 
-A command-line Java application that tracks your health reports over time and uses **Claude AI** to analyze trends, explain medical results in plain language, and give personalized lifestyle recommendations
+A command-line Java application that tracks your health reports over time and uses **Claude AI** to analyze trends, explain medical results in plain language, and give personalized lifestyle recommendations.
 
 ---
 
