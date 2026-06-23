@@ -22,7 +22,6 @@ A command-line Java application that tracks your health reports over time and us
 
 ### Prerequisites
 
-
 - Java 17+
 - Maven 3.8+
 - [Anthropic API key](https://console.anthropic.com/) (for AI features)
