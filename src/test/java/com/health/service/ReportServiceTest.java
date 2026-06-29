@@ -31,7 +31,7 @@ class ReportServiceTest {
     @Order(1)
     void testAddReport() {
         Map<String, String> metrics = Map.of(
-                "Blood Pressure", "118/75",
+                "Blood Pressure", "118/76",
                 "Heart Rate", "72 bpm",
                 "Hemoglobin", "14.2 g/dL"
         );
