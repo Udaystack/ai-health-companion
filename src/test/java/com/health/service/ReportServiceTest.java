@@ -105,7 +105,7 @@ class ReportServiceTest {
 
     @Test
     void testUserProfileBmiUnderweight() {
-        UserProfile profile = new UserProfile("Bob", 22, "Male", 180.0, 55.0,
+        UserProfile profile = new UserProfile("Bob", 20, "Male", 180.0, 55.0,
                 "O+", "None", "None");
         assertEquals("Underweight", profile.getBmiCategory());
     }
