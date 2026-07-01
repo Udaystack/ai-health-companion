@@ -66,7 +66,7 @@ public class UserProfile {
     public String getMedications() { return medications; }
     public void setMedications(String medications) { this.medications = medications; }
 
-    @Override
+    
     public String toString() {
         return String.format("%s | Age: %d | %s | %.1f cm | %.1f kg | BMI: %.1f (%s) | Blood: %s",
                 name, age, gender, heightCm, weightKg, getBmi(), getBmiCategory(), bloodGroup);
