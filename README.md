@@ -74,7 +74,7 @@ Date (yyyy-MM-dd) [today]:
 Doctor name: Dr. Smith
 
 Enter metrics (e.g. 'Blood Pressure: 120/80'). Empty line to finish.
-  Metric: Hemoglobin: 13.8 g/dL
+  Metric: Hemoglobin: 13.5 g/dL
   Metric: WBC: 7.2 x10³/µL
   Metric: Blood Pressure: 118/76
   Metric:
