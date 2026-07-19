@@ -6,7 +6,7 @@
 
     <groupId>com.health</groupId>
     <artifactId>ai-health-companion</artifactId>
-    <version>1.0.4</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
 
     <name>AI Health Companion</name>
